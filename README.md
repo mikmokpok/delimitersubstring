@@ -12,6 +12,6 @@ Direct embed code:
 ```
 <script src="WIDGETURL"></script>
 <script type="text/javascript">
-if (window.JFWidgetSubstrSetup) {window.JFWidgetSubstrSetup({"qid":"{qid}","srcFieldId":"{srcFieldId}","delimiter":"{delimiter}", "strNum":"{strNum}", "qname":"{qname}"});}
+if (window.JFWidgetSubstrSetup) {window.JFWidgetSubstrSetup({"qid":"{qid}","source":"{srcFieldId}","delimiter":"{delimiter}", "strNum":"{strNum}", "qname":"{qname}"});}
 </script>
 ```
